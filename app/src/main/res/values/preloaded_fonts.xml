@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/alata</item>
+        <item>@font/alegreya_sans_sc_thin</item>
+        <item>@font/convergence</item>
+        <item>@font/londrina_solid</item>
+        <item>@font/rhodium_libre</item>
+        <item>@font/rocknroll_one</item>
+    </array>
+</resources>
